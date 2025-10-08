@@ -1,0 +1,6 @@
+Cloud Fundamentals Notes
+1. Cloud Service Models: IaaS, PaaS, SaaS
+2. Cloud Deployment Models: Public, Private, Hybrid
+3. Basic Azure Services: VM, Storage Account, Azure AD
+4. Basic AWS Services: EC2, S3, IAM
+5. Cloud Benefits: Scalability, Cost Efficiency, Flexibility
