@@ -1,0 +1,6 @@
+Linux Commands Practice and Notes
+1. List all files in current directory: ls -la
+2. Display current working directory: pwd
+3. Show contents of a file: cat filename.txt
+4. Scroll through file: less filename.txt
+5. Copy a file: cp source.txt destination.txt
