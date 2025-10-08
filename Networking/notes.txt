@@ -1,0 +1,7 @@
+Networking Basics and Practice Notes
+1. Display IP address: ip a
+2. Check network connectivity: ping 8.8.8.8
+3. Display routing table: route -n
+4. Display open ports and connections: netstat -tuln
+5. Trace route to host: traceroute google.com
+6. Check DNS resolution: nslookup google.com
