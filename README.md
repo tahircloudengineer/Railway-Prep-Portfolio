@@ -14,6 +14,36 @@ This repository contains my learning resources and projects for Railway Prep, in
 - [Python & Debugging](#python--debugging)  
 
 ---
+## 📂 Folder Structure & Quick Links
+
+Explore the main folders in this repository:
+
+- [SQL](./SQL)  
+  - `Practice queries`  
+  - `Projects`  
+  - `Notes`  
+
+- [Cloud](./Cloud)  
+  - `Azure exercises`  
+  - `Cloud projects`  
+
+- [Networking](./Networking)  
+  - `Notes`  
+  - `Lab exercises`  
+
+- [Docker](./Docker)  
+  - `Dockerfiles`  
+  - `Container projects`  
+
+- [Linux](./Linux)  
+  - `Commands`  
+  - `Shell scripting`  
+
+- [Python & Debugging](./Python%20&%20Debugging)  
+  - `Automation-Projects` – Scripts and projects for automating repetitive tasks  
+  - `Debugging-Practice` – Exercises and projects to practice troubleshooting and debugging  
+  - `Notes` – Tips, notes, and reflections on Python and debugging
+
 
 ## SQL
 - Practice queries  
