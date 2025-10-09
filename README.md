@@ -2,7 +2,7 @@
 **Azure Cloud Administrator | Linux Enthusiast | Continuous Learner**
 
 I am an Azure Cloud Administrator with 5.9 years of total experience, including 3.5 years in Azure infrastructure and cloud support.  
-This repository documents my continuous learning journey — from Linux and networking fundamentals to real-world cloud projects, automation, and containerization practice.
+This repository documents my continuous learning journey, from Linux and networking fundamentals to real-world cloud projects, automation, and containerization practice.
 
 ---
 
