@@ -50,6 +50,14 @@ Git, GitHub, Repo Management, Branching, Commit History, Markdown Documentation
 **Debugging & Troubleshooting**  
 System logs analysis, Process monitoring, Connectivity issues, Application errors, Performance bottlenecks
 
+## Python & Debugging
+
+This folder contains resources and practice projects for learning Python and debugging techniques.
+
+### Subfolders
+- `Automation-Projects`: Scripts and notes for automating repetitive IT tasks using Python.
+- `Debugging-Practice`: Exercises and examples for troubleshooting and debugging.
+
 ---
 
 ## 📌 Featured Projects
