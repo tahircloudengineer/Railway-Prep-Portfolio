@@ -1,0 +1,5 @@
+Info: System started successfully
+WARNING: Disk usage at 85%
+ERROR: Database connection failed
+INFO: Retrying connection...
+SUCCESS: Database connected
