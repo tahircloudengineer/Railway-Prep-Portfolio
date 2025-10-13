@@ -1,0 +1,6 @@
+# Linux Practice - Day 1
+Date: Oct 14, 2025
+
+1. Created linux_practice folder under Railway-Prep-Portfolio/Linux.
+2. Verified Git connection to GitHub.
+3. Next: Practice grep, find, and system commands.
