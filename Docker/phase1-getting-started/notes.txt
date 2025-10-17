@@ -1,0 +1,8 @@
+Docker Basics and Practice Notes
+1. Check Docker version: docker --version
+2. List Docker images: docker images
+3. Run a hello-world container: docker run hello-world
+4. List running containers: docker ps
+5. List all containers: docker ps -a
+6. Remove a container: docker rm container_id
+7. Remove an image: docker rmi image_id
